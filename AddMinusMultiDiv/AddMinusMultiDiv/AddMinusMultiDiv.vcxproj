@@ -78,7 +78,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="division.cpp" />
+=======
+    <ClCompile Include="add.c" />
+>>>>>>> Addition
     <ClCompile Include="main.c" />
 <<<<<<< HEAD
     <ClCompile Include="multi.c" />

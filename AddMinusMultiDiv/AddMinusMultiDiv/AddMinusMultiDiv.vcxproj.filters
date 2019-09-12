@@ -20,6 +20,7 @@
     </ClCompile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClCompile Include="division.cpp">
 =======
     <ClCompile Include="multi.c">
@@ -27,6 +28,9 @@
 =======
     <ClCompile Include="minus.c">
 >>>>>>> Minus
+=======
+    <ClCompile Include="add.c">
+>>>>>>> Addition
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -18,7 +18,11 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="division.cpp">
+=======
+    <ClCompile Include="multi.c">
+>>>>>>> Multiplication
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

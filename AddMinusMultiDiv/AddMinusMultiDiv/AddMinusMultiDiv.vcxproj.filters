@@ -19,10 +19,14 @@
       <Filter>Source Files</Filter>
     </ClCompile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClCompile Include="division.cpp">
 =======
     <ClCompile Include="multi.c">
 >>>>>>> Multiplication
+=======
+    <ClCompile Include="minus.c">
+>>>>>>> Minus
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

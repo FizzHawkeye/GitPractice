@@ -80,7 +80,11 @@
   <ItemGroup>
     <ClCompile Include="division.cpp" />
     <ClCompile Include="main.c" />
+<<<<<<< HEAD
     <ClCompile Include="multi.c" />
+=======
+    <ClCompile Include="minus.c" />
+>>>>>>> Minus
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

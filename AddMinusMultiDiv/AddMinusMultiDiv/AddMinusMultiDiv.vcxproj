@@ -78,17 +78,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <ClCompile Include="division.cpp" />
-=======
+    <ClCompile Include="div.c" />
     <ClCompile Include="add.c" />
->>>>>>> Addition
     <ClCompile Include="main.c" />
-<<<<<<< HEAD
     <ClCompile Include="multi.c" />
-=======
     <ClCompile Include="minus.c" />
->>>>>>> Minus
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

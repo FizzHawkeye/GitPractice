@@ -55,12 +55,12 @@ u16 NL1cD1FindNoPdcchSf(SYSTEM_TIME_S stInputTime, u8 ucSsType, SYSTEM_TIME_S *p
         if (ucGapEnable == 1)
         {
             pucPdcchInfo = stDlCtrl.aucAnchorPdcchInfoGap;
-            usPdcchInfoPeriod = stDlCtrl.usLCM5iGap;
+            usPdcchInfoPeriod = stDlCtrl.usLCMSiGap;
         }
         else
         {
             pucPdcchInfo = stDlCtrl.aucAnchorPdcchInfoNoGap;
-            usPdcchInfoPeriod = stDlCtrl.uslaxsiPeriod;
+            usPdcchInfoPeriod = stDlCtrl.usMaxSiPeriod;
         }
     }
     else
